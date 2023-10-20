@@ -1,0 +1,18 @@
+{
+  "name" : "Ari",
+  "email" : "ariteknologi@gmail.com",
+  "password": "123456",
+  "identity_type": "A",
+  "identity_number": "123456789",
+  "address": "testing"
+
+
+  "bank_name" : "bri",
+  "bank_account_number" : "112344",
+  "balance" : "2000000",
+  "user_id" : "1",
+
+  "source_account_id" : 10
+  "destination_account_id" :11
+  "amount" : 20000
+}
